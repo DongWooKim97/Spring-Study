@@ -12,4 +12,4 @@ spring:
     password:
   jpa:
     hibernate:
-      ddl-auto: createg
+      ddl-auto: create
